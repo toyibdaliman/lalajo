@@ -6,7 +6,6 @@ https://raw.githubusercontent.com/kusnadipepenk/ntn/master/arenapremium1.m3u8
 https://raw.githubusercontent.com/kusnadipepenk/ntn/master/arenapremium2.m3u8
 
 #EXTINF:-1 tvg-id="Arena" group-title="WORLD SPORTS", Arena Sport 1
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:3B:4A:A8&stream=1115&extension=m3u8
 https://raw.githubusercontent.com/kusnadipepenk/ntn/master/arns1.m3u8
 
 #EXTINF:-1 tvg-id="Arena" group-title="WORLD SPORTS", Arena Sport 2
